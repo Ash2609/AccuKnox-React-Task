@@ -85,3 +85,15 @@ This project uses the following main dependencies:
 # this App will Run at https://localhost:5173
 
 - Live Demo : https://ash2609.github.io/AccuKnox-React-Task/
+
+Screen Shots :
+<img width="1887" height="850" alt="image" src="https://github.com/user-attachments/assets/7557c93c-d458-400e-a4c6-5f41f0a8a9a2" />
+<img width="1872" height="858" alt="image" src="https://github.com/user-attachments/assets/4c94001b-9970-4ee8-b5f9-eeb23ac0f400" />
+Add Widget :
+<img width="1916" height="867" alt="image" src="https://github.com/user-attachments/assets/ae33546f-20e2-4143-84db-f81a17f6c422" />
+Manage Categories :
+<img width="1905" height="843" alt="image" src="https://github.com/user-attachments/assets/79c228d2-8a45-46e8-9ccc-1cdd8e38c015" />
+
+
+
+
